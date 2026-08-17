@@ -141,7 +141,7 @@ Caso alguma inconsistência seja encontrada, o pipeline gera um erro para impedi
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/tthaispinheiro/titanic-data-pipeline
 ```
 
 ### 2. Acesse a pasta do projeto
